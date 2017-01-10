@@ -1,6 +1,21 @@
 Change Log
 =======================================
 
+Version 3.1.2 *(2014-03-12)*
+----------------------------
+ * Fill available space when content too small. Prompted by this [SO question](http://stackoverflow.com/questions/22332696/fadingactionbar-linearlayout-does-not-match-parent).
+
+
+Version 3.1.1 *(2014-01-25)*
+----------------------------
+ * Remove actionbar shadow from samples.
+ * Library not modified, version not uploaded to maven central.
+
+
+Version 3.1.0 *(2014-01-19)*
+----------------------------
+ * Added support for WebView content.
+
 Version 3.0.0 *(2013-12-04)*
 ----------------------------
  * Revamped project structure, now all AB types (stock, sherlock, compat) are under the same repo. Stock AB support in in the main library, whereas other types are in the "extras" folder.

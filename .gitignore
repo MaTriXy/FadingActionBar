@@ -18,6 +18,7 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+project.properties
 
 # Maven
 target
@@ -28,6 +29,9 @@ pom.xml.*
 apks
 
 # Gradle
-library/build
-sample/build
+build
 .gradle
+
+# Android Studio
+.idea/
+*.iml
